@@ -11,7 +11,7 @@ I am **Graduate** BSc Graduate in **Computer Science** @ **[UCT, School of IT.](
 - ☁️ **DevOps** **-** GUincorn | Gunicorn | Git | Docker Engine | Docker Compose | Docker Desktop | Minikube | Google Cloud (Google Kubernetes Engine, Artifact Registry, Cloud Build) | AWS (Elastic Kubernetes Service, Elastic Container Registry, Amazon S3) | CircleCI | Heroku | Grunt | Webpack | Babel | Nodemon | Yarn | JWT. 
 - ⚙️ **Data Engineering and Machine Learning** **-** Pandas | Matplotlib | NumPy | SciPy | Apache Airflow | IPython | Jupyter | Sciki-learn 
 - ⚡Open for work opportunities and Project collaborations.
-- 📫 Shoot me an E-mail: mtmjea001@gmail.com jeanlucmutomb@gmail.com
+- 📫 Shoot me an E-mail: mtmjea001@gmail.com OR jeanlucmutomb@gmail.com
 
 
 <!-- **Youtube: [jeanlucmutomb](https://www.youtube.com/jeanlucmutomb)** -->
