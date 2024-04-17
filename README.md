@@ -50,9 +50,6 @@ I am **Graduate** BSc Graduate in **Computer Science** @ **[UCT, School of IT.](
 <span>Tim Berners-Lee</span>
 </blockquote>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mutomb&limit=5&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mutomb&icon=0&color=0)](https://visitcount.itsvg.in)
 
