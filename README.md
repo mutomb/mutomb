@@ -8,7 +8,7 @@ I am **Graduate** BSc Graduate in **Computer Science** @ **[UCT, School of IT.](
 - 💻 **Backend Technologies/Frameworks** **-**  Flask | SQLAlchemy | Node.js | Express.js | Mongoose
 - ⚙️ **Testing Teachnologies** **_** Jasmine and Karma | Selenium | Coverage | Mocha Chai | SuperTest | Cheerio | Jest | React Testing-Library | ESLint | Prettier | TypeScript | Cypress.
 - 📊 **Database** **-**  PostgreSQL | MongoDB | Redis
-- ☁️ **DevOps** **-** GUincorn | Gunicorn | Git | Docker Engine | Docker Compose | Docker Desktop | Minikube | Google Cloud (Google Kubernetes Engine, Artifact Registry, Cloud Build) | AWS (Elastic Kubernetes Service, Elastic Container Registry, Amazon S3) | CircleCI | Heroku | Grunt | Webpack | Babel | Nodemon | Yarn | JWT. 
+- ☁️ **DevOps** **-** GUincorn | Git | Docker Engine | Docker Compose | Docker Desktop | Minikube | Google Cloud (Google Kubernetes Engine, Artifact Registry, Cloud Build) | AWS (Elastic Kubernetes Service, Elastic Container Registry, Amazon S3) | CircleCI | Heroku | Grunt | Webpack | Babel | Nodemon | Yarn | JWT. 
 - ⚙️ **Data Engineering and Machine Learning** **-** Pandas | Matplotlib | NumPy | SciPy | Apache Airflow | IPython | Jupyter | Sciki-learn 
 - ⚡Open for work opportunities and Project collaborations.
 - 📫 Shoot me an E-mail: mtmjea001@gmail.com OR jeanlucmutomb@gmail.com
@@ -51,7 +51,7 @@ I am **Graduate** BSc Graduate in **Computer Science** @ **[UCT, School of IT.](
 </blockquote>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mutomb&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mutomb&limit=5&theme=dark&combineallyearlycontributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mutomb&icon=0&color=0)](https://visitcount.itsvg.in)
