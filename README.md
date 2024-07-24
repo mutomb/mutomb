@@ -22,18 +22,16 @@
 
 ## Creation 👨‍💻
 
-### <img src="https://gosquare.onrender.com/logo.png" width="16px" />  Portfolio 
-[Vishwa Gaurav - Portfolio]([https://itsvg.in](https://gosquare.onrender.com)
-
-## <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  GO<sup>2</sup> : E-Learning platform 
-[GO2 : E-Learning platform ]([https://ytmp.itsvg.in](https://gosquare.onrender.com) is an online learning that lets you play consult experts while learning with tons of features such as:
+## <img src=""https://github.com/mutomb/gosquare/blob/skeleton/client/public/logo.svg" width="16px" />  GO<sup>2</sup> : E-Learning platform
+[GO2  : E-Learning platform](https://gosquare.onrender.com) is the online learning that lets you play consult experts while learning with tons of features such as:
 
 ### Browse Courses and Specialists 
-Allows you search and find courses and speciailists
+Allows you to search and find courses and speciailists
 <img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
 
 ### Selling Course
 Allows Specialists to publish and sell a course
+
 <img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
 
 ### Buying Course
@@ -53,6 +51,8 @@ Allows Specialist to interact with up to 10 clients simulatneous via *chat* and 
 <img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
 
 <p align="right">... working on few more features and quality assurance before going commercial. Stay tuned!😉 </p>
+
+<br/>
 
 # 💻 Tech Stack Skills:
 ## Languages
@@ -80,6 +80,8 @@ Allows Specialist to interact with up to 10 clients simulatneous via *chat* and 
 ##Graphic Design
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)  
 
+<br/>
+
 ## Current GitHub Stats 📊
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=mutomb&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true) -->
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutomb&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
@@ -88,8 +90,7 @@ Allows Specialist to interact with up to 10 clients simulatneous via *chat* and 
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=mutomb&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mutomb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
 ### Thanks for Visiting my GitHub Profile!
 
