@@ -22,7 +22,7 @@
 
 ## Creation 👨‍💻
 
-## <img src=""https://github.com/mutomb/gosquare/blob/skeleton/client/public/logo.svg" width="16px" />  GO<sup>2</sup> : E-Learning platform
+## <img src="https://github.com/mutomb/gosquare/blob/skeleton/client/public/logo.svg" width="16px" />  GO<sup>2</sup> : E-Learning platform
 [GO2  : E-Learning platform](https://gosquare.onrender.com) is the online learning that lets you play consult experts while learning with tons of features such as:
 
 ### Browse Courses and Specialists 
