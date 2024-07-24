@@ -26,28 +26,27 @@
 [GO2  : E-Learning platform](https://gosquare.onrender.com) is the online learning that lets you play consult experts while learning with tons of features such as:
 
 ### Browse Courses and Specialists 
-Allows you to search and find courses and speciailists
+Allows you to search and find courses and speciailists</br>
 <img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
 
 ### Selling Course
-Allows Specialists to publish and sell a course
-
+Allows Specialists to publish and sell a course</br>
 <img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
 
 ### Buying Course
-Allows Clients to buy a course and enroll into a course
+Allows Clients to buy a course and enroll into a course</br>
 <img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
 
 ### Global Chat 
-Facilitate real-time end to end group communication between Clients, Specialist and/or site support team
+Facilitate real-time end to end group communication between Clients, Specialist and/or site support team </br>
 <img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
 
 ### Private Chat
-For private communication between Clients, Specialist and/or site support team
+For private communication between Clients, Specialist and/or site support team</br>
 <img src="https://visitcount.itsvg.in/logo.png" width="16px" />
 
 ### Upskilling-based Consultation 
-Allows Specialist to interact with up to 10 clients simulatneous via *chat* and *video chat*
+Allows Specialist to interact with up to 10 clients simulatneous via *chat* and *video chat* </br>
 <img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
 
 <p align="right">... working on few more features and quality assurance before going commercial. Stay tuned!😉 </p>
