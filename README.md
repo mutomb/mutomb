@@ -2,12 +2,12 @@
   Hi, I'm Jean-Luc Mutomb 👋 </br> 
 </h1>
 <p align="center">
-  I am a qualified full stack engineer
+  I am a full stack engineer👨‍💻
   <a href="https://sit.uct.ac.za" target="_blank">
     <img alt="" src="https://sit.uct.ac.za/sites/default/files/uct_ac_za/sit_logo_darkgrey_whitetext.jpg_.png" style="vertical-align:center" />
   </a>
 </p>
-<p align="center">I love to innovate new products⚡</p>
+<p align="center">I love to innovate new products🧱</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p>I am open to project collaborations.</p>
 <p>📫 Shoot me an E-mail: jeanlucmutomb@gmail.com</p>
@@ -23,7 +23,7 @@
 ## Creation 👨‍💻
 
 ## <img src="https://github.com/mutomb/gosquare/blob/skeleton/client/public/logo.svg" width="16px" />  GO<sup>2</sup> : E-Learning platform
-[GO2  : E-Learning platform](https://gosquare.onrender.com) is the online learning that lets you play consult experts while learning with tons of features such as:
+[GO2  : E-Learning platform](https://gosquare.onrender.com) is the online learning that I am creating to let you consult experts while learning, with tons of features such as:
 
 ### Browse Courses and Specialists 
 Allows you to search and find courses and speciailists</br>
