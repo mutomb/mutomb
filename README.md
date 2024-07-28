@@ -1,17 +1,15 @@
+![322279895-fe054170-c69a-41d2-8e73-f7f239ebc046](https://github.com/user-attachments/assets/979ca174-74e7-4479-bcb3-eedd157058f9)
 <h1 align="center">
   Hi, I'm Jean-Luc Mutomb 👋 </br> 
 </h1>
-<p align="center">
-  I am a full stack engineer👨‍💻
-  <a href="https://sit.uct.ac.za" target="_blank">
-    <img alt="" src="https://sit.uct.ac.za/sites/default/files/uct_ac_za/sit_logo_darkgrey_whitetext.jpg_.png" style="vertical-align:center" />
-  </a>
-</p>
 <p align="center">I love to innovate new products🧱</p>
 <p align="center">Turning imagination into reality 🚀</p>
-<p>I am open to project collaborations.</p>
-<p>📫 Shoot me an E-mail: jeanlucmutomb@gmail.com</p>
+<p align="center">I am open to project collaborations.</p>
+<p align="center">📫 Shoot me an E-mail: jeanlucmutomb@gmail.com</p>
 <p align="center">
+<a href="https://sit.uct.ac.za" target="_blank">
+  <img alt="" src="https://sit.uct.ac.za/sites/default/files/uct_ac_za/sit_logo_darkgrey_whitetext.jpg_.png" style="vertical-align:center" />
+</a>
  <a href="https://buymeacoffee.com/jeanlucmutc" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" />
  </a>
  <a href="https://github.com/mutomb?tab=repositories" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
