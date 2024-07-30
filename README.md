@@ -5,7 +5,7 @@
 <p align="center">I love to innovate new products🧱</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">I am open to project collaborations.</p>
-<p align="center">📫 Shoot me an E-mail: jeanlucmutomb@gmail.com</p>
+<p align="center">📫 Send me an E-mail: jeanlucmutomb@gmail.com</p>
 <p align="center">
 <a href="https://sit.uct.ac.za" target="_blank">
   <img alt="" src="https://sit.uct.ac.za/sites/default/files/uct_ac_za/sit_logo_darkgrey_whitetext.jpg_.png" style="vertical-align:center" />
@@ -21,33 +21,45 @@
 ## Creation 👨‍💻
 
 ## <img src="https://github.com/mutomb/gosquare/blob/skeleton/client/public/logo.svg" width="16px" />  GO<sup>2</sup> : E-Learning platform
-[GO2  : E-Learning platform](https://gosquare.onrender.com) is the online learning that I am creating to let you consult experts while learning, with tons of features such as:
+[GO2  : E-Learning platform](https://gosquare.onrender.com) is the online learning that I am creating to let you consult experts while learning. Check it out live at <a href='https://gosquare.onrender.com'>gosquare.onrender.com</a> (*Just a heads-up: our site may take around 30 seconds to load. If it’s still spinning after a minute, please reload. Thanks for your patience! 🚀*).<br/><br/>It's packed with features such as:
 
 ### Browse Courses and Specialists 
 Allows you to search and find courses and speciailists</br>
-<img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
+Dark Theme            |  Light Theme
+:-------------------------:|:-------------------------:
+![localhost_3000_ (3)](https://github.com/user-attachments/assets/b9cf547b-8b8d-406a-8aff-7c12c8f9a18c) | ![localhost_3000_ (1 1)](https://github.com/user-attachments/assets/45267c82-bf23-4e5b-b377-9c471fc6396e)
 
-### Selling Course
+### Selling Courses
 Allows Specialists to publish and sell a course</br>
-<img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
+ 
+Extra Small                    |Small                      | Medium+
+:-------------------------:|:-------------------------:|:-------------------------:
+![localhost_3000_](https://github.com/user-attachments/assets/50d2f53e-5015-484f-a878-aee1b51137f8)  |  ![localhost_3000_ (2)](https://github.com/user-attachments/assets/cc036a18-088b-43de-b409-ba500727cc54) |  ![gosquare onrender com_](https://github.com/user-attachments/assets/bff3908c-9ab1-46ad-9128-54a971869a1d)
+
 
 ### Buying Course
 Allows Clients to buy a course and enroll into a course</br>
-<img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
+Extra Small                    |Small                      | Medium+
+:-------------------------:|:-------------------------:|:-------------------------:
+![localhost_3000_ (8)](https://github.com/user-attachments/assets/c9e530a6-018c-478b-9b83-fc6235814f99)  | | ![localhost_3000_ (7)](https://github.com/user-attachments/assets/e12be8e4-eb41-4765-8b30-ab25fec1788c)
 
-### Global Chat 
-Facilitate real-time end to end group communication between Clients, Specialist and/or site support team </br>
-<img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
 
-### Private Chat
-For private communication between Clients, Specialist and/or site support team</br>
-<img src="https://visitcount.itsvg.in/logo.png" width="16px" />
+### Course-based Specialist Consulation
+Facilitate real-time end to end communication between Clients enrolled in the course and Specialists who created the course, as well as for upskilling consulation (with up to 10 clients simulatneous) via *text chat* and *video chat* </br>
+Extra Small                    |Small                      | Medium+
+:-------------------------:|:-------------------------:|:-------------------------:
+![localhost_3000_ (18)](https://github.com/user-attachments/assets/eb72db60-80bb-401e-8cfb-03438d1cf786) |  ![localhost_3000_ (17)](https://github.com/user-attachments/assets/409f9058-bb82-475d-9f79-8638479900fb)  |  ![localhost_3000_ (16)](https://github.com/user-attachments/assets/dc0c1984-ff7f-4c3a-8101-13cffab06162)
+:-------------------------:|:-------------------------:|:-------------------------:
+![localhost_3000_ (24)](https://github.com/user-attachments/assets/c232c1c0-f417-4f42-ae6d-1a7075c3aafb)  | ![localhost_3000_ (23)](https://github.com/user-attachments/assets/c16ffe6a-108c-458e-ac10-ef4000636a71)  |  ![localhost_3000_ (22)](https://github.com/user-attachments/assets/4516216f-bb8e-4e79-999b-c060b82a884f)
 
-### Upskilling-based Consultation 
-Allows Specialist to interact with up to 10 clients simulatneous via *chat* and *video chat* </br>
-<img src="https://visitcount.itsvg.in/logo.png" width="16px" /> 
+### Customer Service and ChatBot
+For visitors and registered users to interact with Support team</br>
+Extra Small                    |Small                      | Medium+
+:-------------------------:|:-------------------------:|:-------------------------:
+![localhost_3000_ (5)](https://github.com/user-attachments/assets/12fce53d-b6c8-45dd-b447-ff5507c80a6c)  |  ![localhost_3000_ (6)](https://github.com/user-attachments/assets/e78e4948-2d5c-4f57-b1c9-97c2446780fd)  | ![localhost_3000_ (4)](https://github.com/user-attachments/assets/49bafcae-e8d8-4afd-9973-b07197029fb3)
+ 
 
-<p align="right">... working on few more features and quality assurance before going commercial. Stay tuned!😉 </p>
+<p align="right">... these are just the core features, for more features <a href='https://github.com/mutomb/gosquare'>check out the repo</a> or the <a href='https://github.com/mutomb/gosquare'>App Live</a> (). working on few more features and quality assurance before going commercial. Stay tuned!😉 </p>
 
 <br/>
 
