@@ -43,6 +43,11 @@ Extra Small                    |Small                      | Medium+
 :-------------------------:|:-------------------------:|:-------------------------:
 ![localhost_3000_ (8)](https://github.com/user-attachments/assets/c9e530a6-018c-478b-9b83-fc6235814f99)  | | ![localhost_3000_ (7)](https://github.com/user-attachments/assets/e12be8e4-eb41-4765-8b30-ab25fec1788c)
 
+### Course Enrollment and Progress Tracking
+
+Extra Small                    |Small                      | Medium+
+:-------------------------:|:-------------------------:|:-------------------------:
+![localhost_3000_ (14)](https://github.com/user-attachments/assets/f24e7b69-8660-4377-84f3-1769c27b4074)  | ![localhost_3000_ (13)](https://github.com/user-attachments/assets/2b1b03e9-94b1-4aab-848e-fddb81fcc610)  | ![localhost_3000_ (12)](https://github.com/user-attachments/assets/256b695a-7306-4f9a-bfd0-e55fc547d32e)
 
 ### Course-based Specialist Consulation via global, private or video chat
 Facilitate real-time end to end communication between Clients enrolled in the course and Specialists who created the course, as well as for upskilling consulation (with up to 10 clients simulatneous) via *text chat* and *video chat* </br>
