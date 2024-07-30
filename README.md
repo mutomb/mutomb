@@ -44,7 +44,7 @@ Extra Small                    |Small                      | Medium+
 ![localhost_3000_ (8)](https://github.com/user-attachments/assets/c9e530a6-018c-478b-9b83-fc6235814f99)  | | ![localhost_3000_ (7)](https://github.com/user-attachments/assets/e12be8e4-eb41-4765-8b30-ab25fec1788c)
 
 
-### Course-based Specialist Consulation
+### Course-based Specialist Consulation via global, private or video chat
 Facilitate real-time end to end communication between Clients enrolled in the course and Specialists who created the course, as well as for upskilling consulation (with up to 10 clients simulatneous) via *text chat* and *video chat* </br>
 Extra Small                    |Small                      | Medium+
 :-------------------------:|:-------------------------:|:-------------------------:
