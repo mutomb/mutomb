@@ -21,7 +21,7 @@
 ## Creation 👨‍💻
 
 ## <img src="https://github.com/mutomb/gosquare/blob/skeleton/client/public/logo.svg" width="16px" />  GO<sup>2</sup> : E-Learning platform
-[GO2  : E-Learning platform](https://gosquare.onrender.com) is the online learning that I am creating to let you consult experts while learning. Check it out live at <a href='https://gosquare.onrender.com'>gosquare.onrender.com</a> (*Just a heads-up: our site may take around 30 seconds to load. If it’s still spinning after a minute, please reload. Thanks for your patience! 🚀*).<br/><br/>It's packed with features such as:
+<a href='https://gosquare.onrender.com'>GO<sup>2</sup></a> is the online learning that I am creating to let you consult experts while learning. Check it out live at <a href='https://gosquare.onrender.com'>gosquare.onrender.com</a> (*Just a heads-up: our site may take around 30 seconds to load. If it’s still spinning after a minute, please reload. Thanks for your patience! 🚀*).<br/><br/>It's packed with features such as:
 
 ### Browse Courses and Specialists 
 Allows you to search and find courses and speciailists</br>
